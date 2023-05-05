@@ -1,0 +1,77 @@
+#heading{
+	margin-left: 20px;
+	font-color:white;
+	font-size: 48px;
+	text-align: center;
+
+}
+#form_1{
+	background-color:#f3f3f3;
+	height: 650px;
+	
+    margin: auto;
+    width: 850px;
+    background-color: #f3f3f3;
+    border-radius: 10px;
+    padding: 20px 10px 10px 10px;
+}
+p{
+	font-size: 22px;
+	text-align: center;
+}
+#boxname{
+	margin-left: 100px;
+	height: 30px;
+	width: 300px;
+}
+#name{
+	margin-left: 40px;
+}
+#emailbox{
+	margin-left: 100px;
+	height: 30px;
+	width: 300px;
+
+}
+#Number{
+	margin-left: 45px;
+	height: 30px;
+	width: 300px;
+}
+#option_1{
+	margin-left: 80px;
+	height: 30px;
+	width: 200px;
+
+
+}
+.address_1{
+	height: 70px;
+	width: 300px;
+	margin-left: 15px;
+	padding-top: 10px;
+	margin-top: 10px;
+}
+#button_1{
+	height: 30px;
+	width: 180px;
+	margin-left: 320px;
+	border-radius: 8px;
+	background-color: cyan;
+	font-size: 10px
+	font-color:cyan;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
